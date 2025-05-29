@@ -11,16 +11,17 @@
 - Store experiments in PostgreSQL for detailed result tracking
 - Modular design for easy extension and adaptation
 
-## 📦 Project Structure:
-├── models/ # Transformer models
-├── data/ # Training and testing data
-├── optimization/ # Optuna setup and experiments
-├── visualization/ # Streamlit and other visualizations
-├── logs/ # Logging and process tracking
-├── tests/ # Test scripts
-├── PRIVACY_POLICY.md # Privacy Policy
-├── TERMS_OF_USE.md # Terms of Use
-└── README.md # Project description
+## 📦 Project Structure
+models/ # Transformer models
+data/ # Training and testing data
+optimization/ # Optuna setup and experiments
+visualization/ # Streamlit and other visualizations
+logs/ # Logging and process tracking
+tests/ # Test scripts
+PRIVACY_POLICY.md # Privacy Policy
+TERMS_OF_USE.md # Terms of Use
+README.md # Project description
+
 
 ## ⚙️ Installation
 ```bash
